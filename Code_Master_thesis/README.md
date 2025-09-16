@@ -25,7 +25,3 @@ This project analyzes how environmental factors, such as temperature and carbon 
 ### 5. Data Modeling and Statistical Analysis
 - Applied **growth curve modeling** (logistic regression with parameter tuning) and statistical analyses to uncover correlations between temperature, carbon sources, growth rate, metabolite excretion, cell size, and chitinase activity.
 - Successfully identified underlying physiological trends in marine bacteria under varying environmental conditions.
-
-## Getting Started / How to Run the Analysis
-1. **Clone the repository:**
-```bash
