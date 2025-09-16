@@ -11,7 +11,7 @@ This project analyzes how environmental factors, such as temperature and carbon 
 
 ### 2. Metabolite Analysis
 - Processed HPLC data (Excel) to track changes in metabolite levels over time, revealing bacterial metabolic preferences.
-- Results indicate marine bacteria preferentially consume sugars under varying temperatures and carbon sources.
+- Results indicate marine bacteria favor specific carbon sources and temperatures under controlled conditions.
 
 ### 3. Cell Size Analysis
 - Fluorescent microscopy images were analyzed using **Fiji** to extract cell size measurements.
@@ -24,4 +24,8 @@ This project analyzes how environmental factors, such as temperature and carbon 
 
 ### 5. Data Modeling and Statistical Analysis
 - Applied **growth curve modeling** (logistic regression with parameter tuning) and statistical analyses to uncover correlations between temperature, carbon sources, growth rate, metabolite excretion, cell size, and chitinase activity.
-- Successfully identified underlying physiological trends in marine bacteria under varying envirogrowth rate, metabolite excretion, cell size, and chitinase activity.
+- Successfully identified underlying physiological trends in marine bacteria under varying environmental conditions.
+
+## Getting Started / How to Run the Analysis
+1. **Clone the repository:**
+```bash
